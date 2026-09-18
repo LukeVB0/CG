@@ -1,0 +1,2 @@
+# CG
+Repo for school
