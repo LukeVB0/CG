@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader
-  m_Shader: {fileID: 4800000, guid: eaeb5ffdbfb336b4ebc62254971447a9, type: 3}
+  m_Name: ShaderGraph
+  m_Shader: {fileID: -6465566751694194690, guid: bf534234b25565e499f4e51f1f4109c2, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -121,12 +121,11 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MyColour: {r: 0.33817148, g: 0.6132076, b: 0.18801177, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _myColor: {r: 1, g: 1, b: 1, a: 1}
+    - _myColor: {r: 0.003921569, g: 0.003921569, b: 0.003921569, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &3041120326197116060
+--- !u!114 &7440962781877089081
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
